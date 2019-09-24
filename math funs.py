@@ -1,0 +1,15 @@
+#math funs
+import math
+print(abs(-5))
+print(max(10,20,30))
+print(min(10,20,30))
+print(math.sqrt(25))
+print(math.ceil(2.9))
+print(math.floor(2.9))
+print(pow(2,3))
+print(round(5.5))
+print(math.fabs(-9.5))
+print(math.pi)
+print(math.e)
+print(math.exp(25))
+print(math.degrees(35))
